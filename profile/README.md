@@ -1,4 +1,4 @@
-<p align="center"><img src="STARLANE.png" alt="Starlane Logo" width="250"/></p>
+<p align="center"><img src="starlane.png" alt="Starlane Logo" width="250"/></p>
 
 > [!CAUTION]
 > This project is still **Work in Progress**!
